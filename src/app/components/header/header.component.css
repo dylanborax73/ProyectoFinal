@@ -1,0 +1,12 @@
+div{
+    background-color: rgb(7, 85, 138);
+   width: 100%;
+}
+app-redes{
+float: right;
+margin: 8px;
+}
+app-banner{
+    width: 100%;
+    height: 600px;
+}
