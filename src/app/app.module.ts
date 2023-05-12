@@ -8,6 +8,7 @@ import { LogoComponent } from './components/logo/logo.component';
 import { RedesComponent } from './components/redes/redes.component';
 import { BannerComponent } from './components/banner/banner.component';
 import { SobremiComponent } from './components/sobremi/sobremi.component';
+import { NavbarComponent } from './components/navbar/navbar.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +17,8 @@ import { SobremiComponent } from './components/sobremi/sobremi.component';
     LogoComponent,
     RedesComponent,
     BannerComponent,
-    SobremiComponent
+    SobremiComponent,
+    NavbarComponent
   ],
   imports: [
     BrowserModule,
